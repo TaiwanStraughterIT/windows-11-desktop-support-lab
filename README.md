@@ -14,15 +14,15 @@ Windows 11, Task Manager, Event Viewer, TPM Management, Command Prompt, Services
 
 ## Project Evidence
 
-Five exercise reports were prepared to document screenshots, troubleshooting procedures, technical observations, and findings. Upload the corresponding Word documents to this repository to make the evidence available alongside the script.
+Five uploaded exercise reports document screenshots, troubleshooting procedures, technical observations, and findings. Open each Word report using the links below.
 
 | Exercise | Evidence description |
 | --- | --- |
-| **1. Performance Monitoring** | Task Manager screenshots showing CPU monitoring, baseline memory utilization, and changes during multitasking. |
-| **2. Event Viewer & TPM Investigation** | Windows System event log analysis, TPM-related Event ID 15 errors, and TPM status verification. |
-| **3. Network Diagnostics** | Command Prompt evidence of IPv4 configuration, gateway and external reachability, and DNS resolution tests. |
-| **4. Windows Services** | Print Spooler configuration, automatic startup setting, and running status. |
-| **5. PowerShell Automation** | PowerShell execution and troubleshooting of a custom health-check script collecting workstation diagnostic information. |
+| [**1. Performance Monitoring**](Exercise_1_Windows_Performance_Monitoring.docx) | Task Manager screenshots showing CPU monitoring, baseline memory utilization, and changes during multitasking. |
+| [**2. Event Viewer & TPM Investigation**](Exercise_2_Event_Viewer_TPM_Investigation.docx) | Windows System event log analysis, TPM-related Event ID 15 errors, and TPM status verification. |
+| [**3. Network Diagnostics**](Exercise_3_Network_Diagnostics.docx) | Command Prompt evidence of IPv4 configuration, gateway and external reachability, and DNS resolution tests. |
+| [**4. Windows Services**](Exercise_4_Windows_Services.docx) | Print Spooler configuration, automatic startup setting, and running status. |
+| [**5. PowerShell Automation**](Exercise_5_PowerShell_Automation.docx) | PowerShell execution and troubleshooting of a custom health-check script collecting workstation diagnostic information. |
 
 The reports demonstrate investigation and verification, not unconfirmed incident resolutions.
 
